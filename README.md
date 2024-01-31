@@ -6,6 +6,6 @@
 
 #### Our team composition:
 
-- Karpenko Maxym
-- Sapozhnyk Vlad
-- Onufriev Dmytro
+- Maxym Karpenko 
+- Vlad Sapozhnyk
+- Dmytro Onufriev
