@@ -8,4 +8,4 @@
 
 - Karpenko Max
 - Sapozhnyk Vlad
-- Onufriev Dmytro
+- Onufriiev Dmytro
