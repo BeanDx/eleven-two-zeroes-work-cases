@@ -6,6 +6,6 @@
 
 #### :steam_locomotive: Our team composition:
 
-- Karpenko Max
-- Sapozhnyk Vlad
-- Onufriiev Dmytro
+- Max Karpenko
+- Vlad Sapozhnyk
+- Dmytro Onufriiev 
