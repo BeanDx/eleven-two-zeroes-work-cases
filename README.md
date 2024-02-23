@@ -9,9 +9,3 @@
 - Max Karpenko
 - Vlad Sapozhnyk
 - Dmytro Onufriiev 
-
-Our social media: 
-
- @PearDe
- @vlad0syk
- @faith3573
